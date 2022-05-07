@@ -19,7 +19,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html/html-original.svg" alt="android" width="40" height="40"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/> 
 
 
 <h3 align="left">Connect with me:</h3>
