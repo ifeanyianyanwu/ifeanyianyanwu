@@ -29,16 +29,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/delgo-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anyanwuifeanyi" height="30" width="40" /></a>
+<a href="https://twitter.com/delgo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifeanyianyanwu" height="30" width="40" /></a>
 <a href="https://tinyurl.com/5n8ja9vw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ng.linkedin.com/in/david-ekete-74266722a?challengeId=AQEjmFjYPXxIWQAAAYAnFThFIXwVCxH7uXZGq4x8bBT-nbzsqAWbXtN-ymsHSyUyZiCDBuMV0Jn6kABvR-IQx-KpB2NO50cIIw&submissionId=542ba375-5bb4-e516-edc9-0c9afdb89560" height="30" width="40" /></a>
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delgo-hub&show_icons=true&locale=en&layout=compact&theme=onedark" alt="davidekete" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeanyianyanwu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ifeanyianyanwu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delgo-hub&show_icons=true&locale=en&theme=onedark" alt="davidekete" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifeanyianyanwu&show_icons=true&locale=en&theme=onedark" alt="ifeanyianyanwu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delgo-hub&&theme=onedark" alt="davidekete" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeanyianyanwu&&theme=onedark" alt="ifeanyianyanwu" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delgo-hub&theme=onedark" alt="davidekete" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifeanyianyanwu&theme=onedark" alt="ifeanyianyanwu" /></a> </p>
