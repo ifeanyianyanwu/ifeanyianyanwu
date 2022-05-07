@@ -4,14 +4,14 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidekete&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="davidekete" /> </p> -->
 
 
-<p align="left"> <a href="https://twitter.com/delgo__" target="blank"><img src="https://img.shields.io/twitter/follow/delgo__?logo=twitter&style=for-the-badge" alt="Anyanwu Ifeanyi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/delgo__" target="blank"><img src="https://img.shields.io/twitter/follow/delgo__?logo=twitter&style=for-the-badge" alt="Ifeanyi Anyanwu" /></a> </p>
 
 
 - 🌱 I’m currently learning to build **Frontend Applications and Services with Javascript, React.js** .
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/delgo-hub).
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ifeanyianyanwu).
 
-- 🖇 Connect with me on [LinkedIn](https://tinyurl.com/5n8ja9vw)
+- 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/anyanwu-ifeanyi)
 
 - 📫 How to reach me **anyanwuifeanyi001@gmail.com**
 
