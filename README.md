@@ -20,9 +20,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonarchive.com%2Fshow%2Fshaded-social-icons-by-designbolts%2FHTML5-icon.html&psig=AOvVaw3a1n8GkvPDLLpRQ-jaotPe&ust=1651972803728000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjk-riczPcCFQAAAAAdAAAAABAI
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonarchive.com%2Fshow%2Fshaded-social-icons-by-designbolts%2FHTML5-icon.html&psig=AOvVaw3a1n8GkvPDLLpRQ-jaotPe&ust=1651972803728000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjk-riczPcCFQAAAAAdAAAAABAI" alt="android" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="android" width="40" height="40"/> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/> 
 
