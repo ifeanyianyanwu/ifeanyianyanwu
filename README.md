@@ -23,7 +23,9 @@
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="android" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="android" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="android" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="android" width="40" height="40"/></p>
 
 
 <h3 align="left">Connect with me:</h3>
