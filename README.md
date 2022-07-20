@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidekete&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="davidekete" /> </p> -->
 
 
-<p align="left"> <a href="https://twitter.com/delgo__" target="blank"><img src="https://img.shields.io/twitter/follow/delgo__?logo=twitter&style=for-the-badge" alt="Ifeanyi Anyanwu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev_delgo" target="blank"><img src="https://img.shields.io/twitter/follow/delgo__?logo=twitter&style=for-the-badge" alt="Ifeanyi Anyanwu" /></a> </p>
 
 
 - 🌱 I’m currently learning to build **Frontend Applications and Services with Javascript, React.js** .
