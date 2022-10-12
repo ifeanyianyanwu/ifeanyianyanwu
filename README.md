@@ -1,10 +1,10 @@
 <h1 align="center">Hey  👋, I'm Ifeanyi Anyanwu</h1>
 <h3 align="center"> Front-End Developer </h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidekete&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="davidekete" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidekete&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="ifeanyianyanwu" /> </p> -->
 
 
-<p align="left"> <a href="https://twitter.com/dev_delgo" target="blank"><img src="https://img.shields.io/twitter/follow/dev_delgo?logo=twitter&style=for-the-badge" alt="Ifeanyi Anyanwu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_delgo_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_delgo?logo=twitter&style=for-the-badge" alt="Ifeanyi Anyanwu" /></a> </p>
 
 
 - 🌱 I’m currently learning to build **Frontend Applications and Services with Javascript, React.js** .
