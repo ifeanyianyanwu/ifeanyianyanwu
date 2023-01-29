@@ -27,8 +27,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
-    <img src="https://tailwindcss.com/" alt="android" width="40" height="40"/></p>
+  <a href="https://tailwindcss.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="android" width="40" height="40"/></p>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="android" width="40" height="40"/>
@@ -42,7 +42,7 @@
   <a href="https://redux.js.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" alt="android" width="40" height="40"/></p>
   </a>
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/delgo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifeanyianyanwu" height="30" width="40" /></a>
