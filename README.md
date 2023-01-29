@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidekete&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="ifeanyianyanwu" /> </p> -->
 
 
-<p align="left"> <a href="https://twitter.com/__delgo" target="blank"><img src="https://img.shields.io/twitter/follow/dev_delgo?logo=twitter&style=for-the-badge" alt="Ifeanyi Anyanwu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ifeanyianyanwu_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_delgo?logo=twitter&style=for-the-badge" alt="Ifeanyi Anyanwu" /></a> </p>
 
 
 - 🌱 I’m currently learning to build **Frontend Applications and Services with Javascript, React.js** .
@@ -21,16 +21,27 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="android" width="40" height="40"/>
-<img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="android" width="40" height="40"/></p>
-
+  <a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
+    <img src="https://tailwindcss.com/" alt="android" width="40" height="40"/></p>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://beta.reactjs.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="android" width="40" height="40"/></p>
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" alt="android" width="40" height="40"/></p>
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
