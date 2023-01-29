@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/ifeanyianyanwu_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_delgo?logo=twitter&style=for-the-badge" alt="Ifeanyi Anyanwu" /></a> </p>
 
 
-- 🌱 I’m currently learning to build **Frontend Applications and Services with Javascript, React.js** .
+- 🌱 I’m currently build **Frontend Applications and Services with React.js** .
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ifeanyianyanwu_).
 
@@ -46,7 +46,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/delgo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifeanyianyanwu" height="30" width="40" /></a>
+<a href="https://twitter.com/ifeanyianyanwu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifeanyianyanwu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anyanwu-ifeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ng.linkedin.com/in/anyanwu-ifeanyi?challengeId=AQEjmFjYPXxIWQAAAYAnFThFIXwVCxH7uXZGq4x8bBT-nbzsqAWbXtN-ymsHSyUyZiCDBuMV0Jn6kABvR-IQx-KpB2NO50cIIw&submissionId=542ba375-5bb4-e516-edc9-0c9afdb89560" height="30" width="40" /></a>
 
 
