@@ -40,9 +40,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="android" width="40" height="40"/></p>
   </a>
   <a href="https://redux.js.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" alt="android" width="40" height="40"/></p>
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="android" width="40" height="40"/></p>
   </a>
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/delgo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifeanyianyanwu" height="30" width="40" /></a>
