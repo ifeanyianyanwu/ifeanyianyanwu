@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning to build **Frontend Applications and Services with Javascript, React.js** .
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ifeanyianyanwu).
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ifeanyianyanwu_).
 
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/anyanwu-ifeanyi)
 
-- 📫 How to reach me **anyanwuifeanyi001@gmail.com**
+- 📫 How to reach me **ifeanyianyanwu.dev@gmail.com**
 
 
 
