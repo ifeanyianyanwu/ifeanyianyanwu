@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [Github](https://github.com/ifeanyianyanwu_).
 
-- 🌱 The rest of my projects are on my Gitlab, but are private repos due to company rules (I work as an intern), I will provide links to the live versions once they are pushed to production.
+- 📢 The rest of my projects are on my Gitlab, but are private repos due to company rules (I work as an intern), I will provide links to the live versions once they       are pushed to production.
 
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/anyanwu-ifeanyi)
 
