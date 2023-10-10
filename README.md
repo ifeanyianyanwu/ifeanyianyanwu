@@ -2,11 +2,11 @@
 <h3 align="center"> Frontend Developer </h3>
 
 
-- 🌱 I build **Frontend Applications and Services with React.js and Typescript** .
+- 🌱 I build **Fullstack Applications and Services with React.js and Typescript** .
 
 <!-- - 👨‍💻 Some of my projects are available at (https://ifeanyianyanwu.com). -->
 
-- 💬 Ask me about **JavaScript, Typescript & Frontend Development with React.js**.
+- 💬 Ask me about **JavaScript, Typescript & Fullstack Development with React.js and Node.js**.
 
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/anyanwu-ifeanyi)
 
