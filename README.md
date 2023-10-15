@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Anyanwu</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeanyianyanwu&label=Profile%20views&color=0e75b6&style=flat" alt="ifeanyianyanwu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifeanyianyanwu" alt="ifeanyianyanwu" /></a> </p>
-
 - 🔭 I’m currently working on **Watch Wander**
 
 - 🌱 I’m currently learning **backend development with node.js**
