@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Frontend developer</h3>
 
 
-- 🌱 I build **Frontend Web-Applications and Services with Javascript, Typescript and React.js** .
-
 - 🔭 I’m currently working on **Watch Wander**
 
 - 🌱 I’m currently learning **Backend development with Node.js**
@@ -27,3 +25,5 @@ Here are a few technologies and languages that I have worked with
 <p align="left">
 <a href="https://twitter.com/__delgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ifeanyianyanwu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anyanwu-ifeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ng.linkedin.com/in/anyanwu-ifeanyi?challengeId=AQEjmFjYPXxIWQAAAYAnFThFIXwVCxH7uXZGq4x8bBT-nbzsqAWbXtN-ymsHSyUyZiCDBuMV0Jn6kABvR-IQx-KpB2NO50cIIw&submissionId=542ba375-5bb4-e516-edc9-0c9afdb89560" height="30" width="40" /></a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifeanyianyanwu&show_icons=true&locale=en&layout=compact" alt="ifeanyianyanwu" /></p>
