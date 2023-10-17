@@ -1,12 +1,12 @@
 <h1 align="center">Hey  👋, I'm Ifeanyi Anyanwu</h1>
-<!-- <h3 align="center"> Frontend Developer </h3> -->
+<h3 align="center">A passionate Frontend developer</h3>
 
 
 - 🌱 I build **Frontend Web-Applications and Services with Javascript, Typescript and React.js** .
 
 - 🔭 I’m currently working on **Watch Wander**
 
-- 🌱 I’m currently learning **backend development with node.js**
+- 🌱 I’m currently learning **Backend development with Node.js**
 
 - 💬 Ask me about **JavaScript, Typescript & Frontend Development with React.js**.
 
