@@ -1,16 +1,14 @@
 <h1 align="center">Hey  👋, I'm Ifeanyi Anyanwu</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A Software engineer</h3>
 
 
-- 🔭 I’m currently working on **Watch Wander**
+- 🌱 I’m currently learning **Backend development with Node.js using Express**
 
-- 🌱 I’m currently learning **Backend development with Node.js**
-
-- 💬 Ask me about **JavaScript, Typescript & Frontend Development with React.js**.
+- 💬 Ask me about **JavaScript, Typescript & Frontend Development with React.js and Next.js**.
 
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/anyanwu-ifeanyi)
 
-- 📫 How to reach me **ifeanyianyanwu.dev@gmail.com**
+- 📫 How to reach me **anyanwuifeanyi001@gmail.com**
 
 <!--- - 📄 Know about my experiences [https://docs.google.com/document/d/16w-XZCPX1GntgYpdZ0p86qgV9wf6mZ9vcHkVivv3bXA/edit?usp=sharing](https://docs.google.com/document/d/16w-XZCPX1GntgYpdZ0p86qgV9wf6mZ9vcHkVivv3bXA/edit?usp=sharing) --->
 
