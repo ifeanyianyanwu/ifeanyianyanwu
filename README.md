@@ -1,5 +1,5 @@
 <h1 align="center">Hey  👋, I'm Ifeanyi Anyanwu</h1>
-<h3 align="center">A Software engineer</h3>
+<h3 align="center">A Dedicated Software Engineer</h3>
 
 
 - 🌱 I’m currently learning **Backend development with Node.js using Express**
